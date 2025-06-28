@@ -7,6 +7,7 @@
    outline: 0px;
    text-decoration: none;
    color:black;
+   
 
 }
 
@@ -420,24 +421,5 @@
 
    .doctor h3{
       padding-top: 20px;
-      font-size: 25px;
-   }
-
- .doctor .form-group{
-      margin-bottom: 95px;
-      text-align: center;
-      padding-left:800px;
       font-size: 20px;
-   }
-
-   .form-group  .form-control{
-      width: 700px;
-      height: 40px;
-      padding-right: 200px;
-
-      
-   }
-
-   .form-group{
-      padding-bottom: 200px;
    }
