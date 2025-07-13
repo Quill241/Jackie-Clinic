@@ -493,22 +493,29 @@
       
    }
 
+   .jackie .box-container .box:hover{
+      border: 1px solid red;
+      width: 200px;
+      height: 295px;
+      border-radius: 20%;
+   }
+
    .jackie .box h2{
-      color: rgb(207, 47, 47);
+      color: rgb(162, 32, 32);
       font-size: 23px;
       text-align: center;
       padding-top: 40px;
       padding-bottom: 20px;
    }
 
-   .jackie .box h3{
-      color: rgb(14, 13, 13);
+   .jackie .box span{
+      color: rgb(224, 26, 26);
       font-size: 18px;
    }
-
+      
 
    .box-container .box p{
-      color: red;
+      color: rgb(101, 100, 100);
    }
 
         .button{
@@ -583,4 +590,8 @@
       border-radius: 20%;
    }
 
-
+   .illusion h2{
+      text-align: center;
+      color: white;
+      padding-top: 15px;
+   }
