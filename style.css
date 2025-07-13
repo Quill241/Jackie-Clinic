@@ -55,7 +55,7 @@
    
    
  .content h2{
-    font-size: 45px;
+    font-size: 35px;
     padding-left: 140px;
  }
 
@@ -66,7 +66,7 @@
  .content h3{
    padding-top: 30px;
    padding-left: 200px;
-   font-size: 20px;
+   font-size: 19px;
  }
 
  .content h3 span{
@@ -426,6 +426,7 @@
 
 
     .form{
+      width: auto;
       padding-top: 30px;
       padding-left: 615px;
       margin-bottom: -600px;
@@ -538,7 +539,7 @@
 
    .illusion{
       background: url(images/door.jpg) no-repeat;
-      background-size: 75%;
+      background-size: 65%;
       margin-left:100px;
       margin-top: 100px;
       height: 920px;
@@ -547,7 +548,7 @@
 
    .illusion h2{
       color: white;
-      text-align: center;
+      text-align: center ;
       padding-top: 30px;
       font-size: 20px;
       padding-bottom: -5px;
