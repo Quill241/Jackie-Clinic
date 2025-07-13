@@ -595,3 +595,19 @@
       color: white;
       padding-top: 15px;
    }
+
+   .website{
+      background-color: rgba(177, 34, 34, 0.53);
+      background-image: linear-gradient( red, pink, rgb(235, 235, 243));
+      margin-bottom: 50px;
+      margin-left: 155px;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      width: 85%;
+      padding-left: 20px;
+   }
+
+   .website h2{
+      color: rgb(13, 13, 13);
+      text-align: center;
+}
