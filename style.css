@@ -406,9 +406,9 @@
       background: url(images/doctor.jpg) no-repeat;
       background-size: 800px;
       height: 800px;
-      width: 690px;
+      width: 605px;
       margin-top: 60px;
-      margin-left: 100px;
+      margin-left: 90px;
       padding-left: 80px;
    }
 
@@ -426,10 +426,10 @@
 
 
     .form{
-      padding-top: 20px;
-      padding-left: 645px;
+      padding-top: 30px;
+      padding-left: 615px;
       margin-bottom: -600px;
-   
+      margin-top: 20px;
    }
 
    .form .form-control{
@@ -458,23 +458,19 @@
    
       .form a:hover{
          color: rgb(126, 17, 17);
+
       }
 
       .mavic .jackie h3{
          color: red;
       }
       
-
-      .doctor  h3{
-         margin-top: 130px;
-         text-align:right ;
-         margin-right: -670px;
-         color: rgb(36, 30, 30);
-      }
          
-      .mavic .jackie{
+      .mavic {
       text-align: center;
       color: black;
+      width: 85%;
+      margin-left: 130px;
    }
 
    .jackie .box-container{
@@ -542,18 +538,17 @@
 
    .illusion{
       background: url(images/door.jpg) no-repeat;
-      background-size: 95%;
+      background-size: 75%;
       margin-left:100px;
       margin-top: 100px;
-      height: 910px;
-      
+      height: 920px;
       
    }
 
    .illusion h2{
       color: white;
       text-align: center;
-      padding-top: 40px;
+      padding-top: 30px;
       font-size: 20px;
       padding-bottom: -5px;
    }
@@ -567,8 +562,8 @@
 
 
  .illusion .box-container{
-      width: 55%;
-      height: 500px;
+      width: 40%;
+      height: 300px;
       margin-top: 6rem;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
